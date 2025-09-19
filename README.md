@@ -85,6 +85,3 @@ Using CloudFront behaviors to serve static website + dynamic data.
 
 Enforcing private access with OAC instead of public buckets.
 
-DEMO
-🔗 youtube Demo :https://youtu.be/GPMW1rLMY1U
-🔗 web Demo: d2dndqfio8c53w.cloudfront.net
