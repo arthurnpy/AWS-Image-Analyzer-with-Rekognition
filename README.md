@@ -9,6 +9,7 @@ Here’s a quick look at my **AWS Translation Bot** in action:
 
 👉 [Watch the full demo on YouTube](https://youtu.be/GPMW1rLMY1U)
 👉 [Website Link](d2dndqfio8c53w.cloudfront.net)
+
 ⚙️ Architecture
 
 User (Browser) 
