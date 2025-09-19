@@ -1,6 +1,14 @@
 # AWS-Image-Analyzer-with-Rekognition
 I recently built a full-stack cloud project to practice AWS services and showcase my skills in cloud architecture, serverless computing, and computer vision.
 
+## 🎥 Demo
+
+Here’s a quick look at my **AWS Translation Bot** in action:  
+
+![Bot Demo](assets/demo.gif)  
+
+👉 [Watch the full demo on YouTube](https://youtu.be/GPMW1rLMY1U)
+👉 [Website Link](d2dndqfio8c53w.cloudfront.net)
 ⚙️ Architecture
 
 User (Browser) 
